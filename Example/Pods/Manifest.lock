@@ -1,0 +1,16 @@
+PODS:
+  - ClinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - ClinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ClinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ClinkingLabel: 1890df80badb9cdf9e9fc999acc2f5c6ddaf69a0
+
+PODFILE CHECKSUM: 8447cccd26bdafb48950fa79a5f32593787ce1b2
+
+COCOAPODS: 1.3.1
