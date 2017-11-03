@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ClinkingLabel.h"
 
 FOUNDATION_EXPORT double ClinkingLabelVersionNumber;
 FOUNDATION_EXPORT const unsigned char ClinkingLabelVersionString[];

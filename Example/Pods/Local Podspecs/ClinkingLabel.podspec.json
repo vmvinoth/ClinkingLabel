@@ -1,7 +1,7 @@
 {
   "name": "ClinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of ClinkingLabel.",
+  "summary": "A subclass on UILabel that provides a blink",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/vmvinoth/ClinkingLabel",
   "license": {

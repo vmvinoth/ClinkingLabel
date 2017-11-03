@@ -7,6 +7,7 @@
 //
 
 #import "SKViewController.h"
+#import "ClinkingLabel.h"
 
 @interface SKViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    ClinkingLabel *clink = [[ClinkingLabel alloc]initWithFrame:CGRectMake(50, 50, 220, 50)];
+    clink.text = @"My First Pod";
+    [self.view addSubview:clink];
 }
 
 - (void)didReceiveMemoryWarning
